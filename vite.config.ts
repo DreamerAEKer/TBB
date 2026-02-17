@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
+
 
 // Note: If using @tailwindcss/postcss, we might not need @tailwindcss/vite 
 // BUT for v4, @tailwindcss/vite is recommended for best performance if not using PostCSS explicitly for other things.
