@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-thp-red: #ED1C24;
+  --color-thp-white: #ffffff;
+  --color-thp-gray: #F3F4F6;
+  
+  /* Modern font stack */
+  --font-sans: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
